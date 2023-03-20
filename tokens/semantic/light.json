@@ -1,0 +1,85 @@
+{
+  "semantic": {
+    "on-primary": {
+      "value": "{static.white}",
+      "type": "color",
+      "description": "Primary Color The color used for content (icon, text, etc.) located above the surface."
+    },
+    "primary": {
+      "value": "{static.blue}",
+      "type": "color",
+      "description": "A color that is used for major actions in the service or that expresses the brand's personality"
+    },
+    "primary-event": {
+      "value": "{color.blue-400}",
+      "type": "color",
+      "description": "Tokens that represent changes in the default color state when the user presses or controls the screen with a mouse or finger. \nIt replaces hovered in a desktop environment. \nIn a mobile environment, it replaces the pressed."
+    },
+    "primary-low": {
+      "value": "{color.blue-alpha-100}",
+      "type": "color"
+    },
+    "primary-low-event": {
+      "value": "{color.blue-alpha-200}",
+      "type": "color"
+    },
+    "negative": {
+      "value": "{color.red-500}",
+      "type": "color",
+      "description": "A color used for negative situations such as errors or errors. This color should not be used frequently."
+    },
+    "negative-event": {
+      "value": "{color.red-400}",
+      "type": "color",
+      "description": "Tokens that represent changes in the negative color state when the user presses or controls the screen with a mouse or finger. \nIt replaces hovered in a desktop environment. \nIn a mobile environment, it replaces the pressed."
+    },
+    "negative-low": {
+      "value": "{color.red-alpha-100}",
+      "type": "color"
+    },
+    "positive": {
+      "value": "{color.green-500}",
+      "type": "color",
+      "description": "Color used for positive state representations such as success, completion, and so on."
+    },
+    "positive-low": {
+      "value": "{color.green-alpha-100}",
+      "type": "color"
+    },
+    "disabled": {
+      "value": "{color.gray-400}",
+      "type": "color",
+      "description": "This is a color that means the disabled state of the ui."
+    },
+    "disabled-low": {
+      "value": "{color.gray-200}",
+      "type": "color",
+      "description": "Represents a step in a hierarchy below the default deactivation status color."
+    },
+    "surface-low": {
+      "value": "{color.ash-100}",
+      "type": "color"
+    },
+    "surface": {
+      "value": "{color.ash-200}",
+      "type": "color"
+    },
+    "surface-contents": {
+      "value": "{color.ash-500}",
+      "type": "color"
+    },
+    "on-surface": {
+      "value": "{color.gray-900}",
+      "type": "color",
+      "description": "used for content such as letters and icons that are placed above the surface color."
+    },
+    "border-thumbnail": {
+      "value": "{color.gray-alpha-25}",
+      "type": "color"
+    },
+    "border-divider": {
+      "value": "{color.ash-300}",
+      "type": "color"
+    }
+  }
+}
